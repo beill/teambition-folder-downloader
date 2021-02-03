@@ -1,3 +1,6 @@
+今天突然发现可以批量下载了, 不过依旧不支持文件夹下载
+2021年2月3日9时28分49秒
+
 # teambition-download-folder
 teambition批量下载
 
